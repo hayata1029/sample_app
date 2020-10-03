@@ -5,4 +5,3 @@ class ApplicationController < ActionController::Base
   end
 end
 
-# 次リスト3.6から
